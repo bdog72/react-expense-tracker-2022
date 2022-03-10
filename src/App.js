@@ -14,19 +14,19 @@ function App() {
     },
     {
       id: 2,
-      date: new Date(2023, 6, 25),
+      date: new Date(2023, 7, 26),
       title: 'Car Insurance 2',
       price: 295.67,
     },
     {
       id: 3,
-      date: new Date(2024, 6, 25),
+      date: new Date(2024, 8, 27),
       title: 'Car Insurance 3',
       price: 296.67,
     },
     {
       id: 4,
-      date: new Date(2024, 6, 25),
+      date: new Date(2025, 9, 28),
       title: 'Car Insurance 4',
       price: 297.67,
     },
